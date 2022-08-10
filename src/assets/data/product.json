@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "Name": "Fit Bit Smart 2",
+        "Description": "Smart Watch to Track",
+        "Price": "120",
+        "Images": "../../assets/img/portfolio/1.jpg",
+        "Slug": "Watch"
+    },
+    {
+        "id": 2,
+        "Name": "Nike Air Force One",
+        "Description": "Sports Shoes",
+        "Price": "100",
+        "Images": "../../assets/img/portfolio/2.jpg",
+        "Slug": "Shoes"
+    },
+    {
+        "id": 3,
+        "Name": "Tesla Model X",
+        "Description": "Electric Car",
+        "Price": "230",
+        "Images": "../../assets/img/portfolio/3.jpg",
+        "Slug": "Car"
+    },
+    {
+        "id": 4,
+        "Name": "Coke",
+        "Description": "Cold Drink",
+        "Price": "560",
+        "Images": "../../assets/img/portfolio/4.jpg",
+        "Slug": "Soft Drink"
+    },
+    {
+        "id": 5,
+        "Name": "Mac Book Air M2",
+        "Description": "PowerFull laptop",
+        "Price": "600",
+        "Images": "../../assets/img/portfolio/5.jpg",
+        "Slug": "Laptop"
+    },
+    {
+        "id": 6,
+        "Name": "Chanel Belly belt",
+        "Description": "Fashion Accessories",
+        "Price": "780",
+        "Images": "../../assets/img/portfolio/6.jpg",
+        "Slug": "Fashion"
+    }
+]
